@@ -1,0 +1,78 @@
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\appsettings.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.build.Estacionamento.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Estacionamento.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Estacionamento.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CopyComplete
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\Dapper.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula 10\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\appsettings.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Dapper.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.Estacionamento.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.build.Estacionamento.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Estacionamento.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Estacionamento.props
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CopyComplete
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\jeffe\OneDrive\Documentos\Slides curso CSharp\Aula12\Estacionamento\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
